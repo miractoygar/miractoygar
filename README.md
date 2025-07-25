@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate Full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Ayaz Software](https://github.com/Ayaz-Software)
+- 🔭 I’m currently working on [Lexuna](https://github.com/Lexuna)
 
 - 🌱 I’m currently learning **Rust**
 
